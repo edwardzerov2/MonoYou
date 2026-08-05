@@ -64,9 +64,9 @@ Designed for users who prefer a clean, distraction-free workspace.
 
 | Component | Status |
 |----------|:------:|
+| Libadwaita | ✅ |
 | GTK 3/4 | ✅ |
 | Shell | ⏳ |
-| Libadwaita | ✅ |
 
 </td>
 </tr>
