@@ -39,11 +39,10 @@ Designed for users who prefer a clean, distraction-free workspace.
 
 # Currently Supported
 
-<table>
-<tr>
-<td valign="top">
+<details>
+<summary><b>KDE Plasma</b></summary>
 
-### KDE Plasma
+<br>
 
 | Component | Status |
 |----------|:------:|
@@ -54,13 +53,13 @@ Designed for users who prefer a clean, distraction-free workspace.
 | Application Style | 🚧 |
 | Window Decoration | 🚧 |
 
-</td>
+</details>
 
-<td width="40"></td>
 
-<td valign="top">
+<details>
+<summary><b>GNOME</b></summary>
 
-### GNOME
+<br>
 
 | Component | Status |
 |----------|:------:|
@@ -69,9 +68,7 @@ Designed for users who prefer a clean, distraction-free workspace.
 | Libadwaita | ✅ |
 | GNOME Shell | ⏳ |
 
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
