@@ -8,17 +8,14 @@
 ![Linux](https://img.shields.io/badge/Linux-Supported-2E3440?style=for-the-badge&logo=linux&logoColor=white)
 ![KDE](https://img.shields.io/badge/KDE-Plasma-1D99F3?style=for-the-badge&logo=kdeplasma&logoColor=white)
 
-> [!WARNING]
-> **MonoYou is currently a Work in Progress (WIP).**
->
-> The project is under active development. Components, colors and implementation details may change before the first stable release.
-
----
-
 <img src="screenshots/noir.png" width="90%">
 
 </div>
 
+> [!WARNING]
+> **MonoYou is currently a Work in Progress (WIP).**
+>
+> The project is under active development. Components, colors and implementation details may change before the first stable release.
 ## About
 
 MonoYou is a monochromatic desktop theme inspired by the philosophy of Material You.
