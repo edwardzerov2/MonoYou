@@ -8,8 +8,6 @@
 ![Linux](https://img.shields.io/badge/Linux-Supported-2E3440?style=for-the-badge&logo=linux&logoColor=white)
 ![KDE](https://img.shields.io/badge/KDE-Plasma-1D99F3?style=for-the-badge&logo=kdeplasma&logoColor=white)
 
----
-
 > [!WARNING]
 > **MonoYou is currently a Work in Progress (WIP).**
 >
