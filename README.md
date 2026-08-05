@@ -56,7 +56,7 @@ Designed for users who prefer a clean, distraction-free workspace.
 ## Installation
 
 ```bash
-git clone https://github.com/SEU_USUARIO/MonoYou.git
+git clone https://github.com/edwardzerov2/MonoYou.git
 ```
 
 Copy the desired theme to the appropriate directory for your desktop environment.
