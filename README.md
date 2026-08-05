@@ -36,12 +36,17 @@ Designed for users who prefer a clean, distraction-free workspace.
 
 ## Components
 
-- KDE Plasma Color Scheme
-- Konsole
-- GTK
-- Heroic Games Launcher
-- Discord
-- More coming soon...
+| Component | Status |
+|----------|:------:|
+| GTK 3/4 | ✅ |
+| Libadwaita | ✅ |
+| Qt 5/6 | ✅ |
+| Kvantum | ✅ |
+| Plasma Color Scheme | ✅ |
+| Plasma Application Style | ✅ |
+| Konsole | ✅ |
+| Discord | 🚧 |
+| Heroic | 🚧 |
 
 ---
 
