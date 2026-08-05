@@ -13,9 +13,10 @@
 </div>
 
 > [!WARNING]
-> **MonoYou is currently a Work in Progress (WIP).**
+> **MonoYou is currently under active development.**
 >
-> The project is under active development. Components, colors and implementation details may change before the first stable release.
+> The theme is already running on my main system, but it is not ready for a stable release yet.
+> Components, colors and implementation details may change before the first official release.
 
 ---
 
@@ -27,17 +28,26 @@ Instead of relying on vibrant accent colors, MonoYou focuses on depth, contrast 
 
 Designed for users who prefer a clean, distraction-free workspace.
 
----
-
 # Preview
 
-| Slate |
-|--------|
-| ![](screenshots/slate/showcase.png) |
+<div align="center">
 
----
+### MonoYou Slate
 
-# Currently Supported
+<img src="screenshots/slate/showcase.png">
+
+</div>
+
+
+## Upcoming Variants
+
+| Variant | Description | Status |
+|---------|-------------|:------:|
+| Slate | The reference implementation of MonoYou. | ✅ |
+| Ash | A lighter monochromatic variant. | 🚧 |
+| Noir | A darker monochromatic variant. | 🚧 |
+
+# Current Integration
 
 <details>
 <summary><b>KDE Plasma</b></summary>
@@ -49,7 +59,7 @@ Designed for users who prefer a clean, distraction-free workspace.
 | Qt 5/6 | ✅ |
 | Konsole | ✅ |
 | Kvantum | ⏳ |
-| Color Scheme | 🚧 |
+| Color Scheme | ✅ |
 | Application Style | 🚧 |
 | Window Decoration | 🚧 |
 
@@ -125,18 +135,6 @@ Long-term goals for the MonoYou ecosystem.
 ### Applications
 - [ ] Firefox
 - [ ] Discord
-
----
-
-# Variants
-
-| Variant | Description |
-|---------|-------------|
-| **Slate** | The reference implementation of MonoYou. |
-| **Ash** | A lighter monochromatic variant. *(Planned)* |
-| **Noir** | A darker monochromatic variant. *(Planned)* |
-
----
 
 # Installation
 
