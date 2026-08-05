@@ -104,13 +104,7 @@ The features planned for the first complete release of MonoYou.
 - [ ] Kitty
 - [ ] Ghostty
 
-### Variants
-
-- [x] MonoYou Slate
-- [ ] MonoYou Ash
-- [ ] MonoYou Noir
-
-# Future Goals
+### Future Goals
 
 Long-term goals for the MonoYou ecosystem.
 
@@ -138,9 +132,12 @@ Long-term goals for the MonoYou ecosystem.
 
 # Installation
 
-```bash
-work in progress
-```
+> [!NOTE]
+> Installation instructions are currently being prepared.
+>
+> MonoYou is still in active development and the installation process may change before the first stable release.
+
+For now, the theme files can be manually placed in their respective directories.
 
 Copy the desired theme to the appropriate directory for your desktop environment.
 
