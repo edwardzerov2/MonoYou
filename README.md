@@ -172,10 +172,10 @@ MonoYou is inspired by several projects, communities and design philosophies.
 
 ## Design Inspiration
 
-- **Darkly** — the primary inspiration behind MonoYou, influencing its visual identity, Qt Application Style and Plasma theme.
+- **Darkly** — the inspiration behind MonoYou, influencing its visual identity, Qt Application Style and Plasma theme.
 - **Material You** — for its design philosophy centered around surfaces, hierarchy and adaptive interfaces.
 - **GrapheneOS** — for inspiring MonoYou's monochromatic aesthetic and minimalist visual direction.
-- **Kindle UI** — an indirect inspiration through GrapheneOS, particularly its comfortable grayscale appearance.
+- **Kindle UI** — an indirect inspiration, particularly its comfortable grayscale appearance.
 
 ## Built Upon
 
