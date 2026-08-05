@@ -14,6 +14,11 @@
 
 </div>
 
+> [!WARNING]
+> **MonoYou is currently a Work in Progress (WIP).**
+>
+> The project is under active development. Components, colors and implementation details may change before the first stable release.
+
 ## About
 
 MonoYou is a monochromatic desktop theme inspired by the philosophy of Material You.
