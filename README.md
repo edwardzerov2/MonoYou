@@ -8,7 +8,7 @@
 ![GNOME Shell](https://img.shields.io/badge/GNOME%20Shell-4A86CF?style=for-the-badge&logo=gnome&logoColor=white)
 ![KDE Plasma](https://img.shields.io/badge/KDE-Plasma-1D99F3?style=for-the-badge&logo=kdeplasma&logoColor=white)
 
-<img src="assets/logo.svg" width="90%">
+<img src="assets/logo.svg">
 
 </div>
 
