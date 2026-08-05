@@ -38,15 +38,46 @@ Designed for users who prefer a clean, distraction-free workspace.
 
 ## Components
 
+<table>
+<tr>
+<td valign="top">
+
+### KDE Plasma
+
+| Component | Status |
+|----------|:------:|
+| Qt 5/6 | ✅ |
+| Konsole | ✅ |
+| Kvantum | ⏳ |
+| Plasma Color Scheme | 🚧 |
+| Plasma Application Style | 🚧 |
+| Plasma Decoration | 🚧 |
+
+
+</td>
+
+<td width="40"></td>
+
+<td valign="top">
+
+### GNOME
+
 | Component | Status |
 |----------|:------:|
 | GTK 3/4 | ✅ |
+| Shell | ⏳ |
 | Libadwaita | ✅ |
-| Qt 5/6 | ✅ |
-| Kvantum | ✅ |
-| Plasma Color Scheme | ✅ |
-| Plasma Application Style | ✅ |
-| Konsole | ✅ |
+
+</td>
+</tr>
+</table>
+
+---
+
+## Applications
+
+| Application | Status |
+|------------|:------:|
 | Discord | 🚧 |
 | Heroic | 🚧 |
 
