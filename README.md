@@ -10,14 +10,16 @@
 
 ---
 
-<img src="screenshots/noir.png" width="90%">
-
-</div>
-
 > [!WARNING]
 > **MonoYou is currently a Work in Progress (WIP).**
 >
 > The project is under active development. Components, colors and implementation details may change before the first stable release.
+
+---
+
+<img src="screenshots/noir.png" width="90%">
+
+</div>
 
 ## About
 
