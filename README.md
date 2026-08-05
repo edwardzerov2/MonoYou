@@ -4,7 +4,7 @@
 
 *A monochromatic theme inspired by Material You.*
 
-![License](https://img.shields.io/github/license/SEU_USUARIO/MonoYou?style=for-the-badge)
+![License](https://img.shields.io/github/license/edwardzerov2/MonoYou?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-Supported-2E3440?style=for-the-badge&logo=linux&logoColor=white)
 ![KDE](https://img.shields.io/badge/KDE-Plasma-1D99F3?style=for-the-badge&logo=kdeplasma&logoColor=white)
 
