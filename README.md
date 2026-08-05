@@ -28,9 +28,9 @@ Designed for users who prefer a clean, distraction-free workspace.
 
 | Variant | Description |
 |---------|-------------|
-| 🩶 **Ash** | Soft monochrome with lighter surfaces. |
-| 🪨 **Slate** | Balanced grayscale for everyday use. |
-| ⚫ **Noir** | Deep dark variant with maximum contrast. |
+| **Ash** | Soft monochrome with lighter surfaces. |
+| **Slate** | Balanced grayscale for everyday use. |
+| **Noir** | Deep dark variant with maximum contrast. |
 
 ---
 
