@@ -16,7 +16,10 @@
 > **MonoYou is currently a Work in Progress (WIP).**
 >
 > The project is under active development. Components, colors and implementation details may change before the first stable release.
-## About
+
+---
+
+# About
 
 MonoYou is a monochromatic desktop theme inspired by the philosophy of Material You.
 
@@ -26,17 +29,15 @@ Designed for users who prefer a clean, distraction-free workspace.
 
 ---
 
-## Variants
+# Preview
 
-| Variant | Description |
-|---------|-------------|
-| **Ash** | Soft monochrome with lighter surfaces. |
-| **Slate** | Balanced grayscale for everyday use. |
-| **Noir** | Deep dark variant with maximum contrast. |
+| Ash | Slate | Noir |
+|------|--------|-------|
+| ![](screenshots/ash.png) | ![](screenshots/slate.png) | ![](screenshots/noir.png) |
 
 ---
 
-## Components
+# Currently Supported
 
 <table>
 <tr>
@@ -49,10 +50,9 @@ Designed for users who prefer a clean, distraction-free workspace.
 | Qt 5/6 | ✅ |
 | Konsole | ✅ |
 | Kvantum | ⏳ |
-| Plasma Color Scheme | 🚧 |
-| Plasma Application Style | 🚧 |
-| Plasma Decoration | 🚧 |
-
+| Color Scheme | 🚧 |
+| Application Style | 🚧 |
+| Window Decoration | 🚧 |
 
 </td>
 
@@ -64,9 +64,10 @@ Designed for users who prefer a clean, distraction-free workspace.
 
 | Component | Status |
 |----------|:------:|
+| GTK 3 | ✅ |
+| GTK 4 | ✅ |
 | Libadwaita | ✅ |
-| GTK 3/4 | ✅ |
-| Shell | ⏳ |
+| GNOME Shell | ⏳ |
 
 </td>
 </tr>
@@ -74,27 +75,76 @@ Designed for users who prefer a clean, distraction-free workspace.
 
 ---
 
-## Applications
+# Roadmap
 
-| Application | Status |
-|------------|:------:|
-| Discord | 🚧 |
-| Heroic | 🚧 |
+The features planned for the first complete release of MonoYou.
+
+### Core
+
+- [x] GTK 3
+- [x] GTK 4
+- [x] Libadwaita
+- [x] Qt 5/6
+- [x] Plasma Color Scheme
+- [ ] Kvantum
+- [ ] Plasma Application Style
+- [ ] Plasma Window Decoration
+- [ ] GNOME Shell
+
+### Terminal
+
+- [x] Konsole
+- [ ] Kitty
+- [ ] Ghostty
+
+### Variants
+
+- [x] MonoYou Slate
+- [ ] MonoYou Ash
+- [ ] MonoYou Noir
+
+# Future Goals
+
+Long-term goals for the MonoYou ecosystem.
+
+### Core
+
+- [ ] MonoYou Application Style
+- [ ] MonoYou Window Decoration
+- [ ] Plasma Theme
+- [ ] GNOME Shell Theme
+
+### Assets
+
+- [ ] Icon Theme
+- [ ] Cursor Theme
+- [ ] Wallpapers
+
+### System
+
+- [ ] SDDM Theme
+- [ ] GRUB Theme
+
+### Applications
+- [ ] Firefox
+- [ ] Discord
 
 ---
 
-## Preview
+# Variants
 
-| Ash | Slate | Noir |
-|------|--------|-------|
-| ![](screenshots/ash.png) | ![](screenshots/slate.png) | ![](screenshots/noir.png) |
+| Variant | Description |
+|---------|-------------|
+| **Slate** | The reference implementation of MonoYou. |
+| **Ash** | A lighter monochromatic variant. *(Planned)* |
+| **Noir** | A darker monochromatic variant. *(Planned)* |
 
 ---
 
-## Installation
+# Installation
 
 ```bash
-git clone https://github.com/edwardzerov2/MonoYou.git
+git clone git@github.com:edwardzerov2/MonoYou.git
 ```
 
 Copy the desired theme to the appropriate directory for your desktop environment.
@@ -103,7 +153,7 @@ Detailed installation instructions will be added soon.
 
 ---
 
-## Philosophy
+# Philosophy
 
 MonoYou is built around a simple idea:
 
@@ -116,6 +166,26 @@ Every interface element is designed to communicate hierarchy through brightness 
 
 ---
 
-## License
+# Acknowledgements
+
+MonoYou is inspired by several projects, communities and design philosophies.
+
+## Design Inspiration
+
+- **Darkly** — the primary inspiration behind MonoYou, influencing its visual identity, Qt Application Style and Plasma theme.
+- **Material You** — for its design philosophy centered around surfaces, hierarchy and adaptive interfaces.
+- **GrapheneOS** — for inspiring MonoYou's monochromatic aesthetic and minimalist visual direction.
+- **Kindle UI** — an indirect inspiration through GrapheneOS, particularly its comfortable grayscale appearance.
+
+## Built Upon
+
+- **Klassy** — for providing the highly customizable window decoration and application style currently used by MonoYou.
+- **Breeze** — for establishing the design foundation and consistency of the KDE Plasma desktop.
+
+Thank you to all the developers, designers and contributors behind these amazing projects.
+
+---
+
+# License
 
 Released under the MIT License.
