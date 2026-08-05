@@ -144,7 +144,7 @@ Long-term goals for the MonoYou ecosystem.
 # Installation
 
 ```bash
-git clone git@github.com:edwardzerov2/MonoYou.git
+work in progress
 ```
 
 Copy the desired theme to the appropriate directory for your desktop environment.
