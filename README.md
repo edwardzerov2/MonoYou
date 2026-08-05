@@ -33,7 +33,7 @@ Designed for users who prefer a clean, distraction-free workspace.
 
 | Ash | Slate | Noir |
 |------|--------|-------|
-| ![](screenshots/ash.png) | ![](screenshots/slate.png) | ![](screenshots/noir.png) |
+| ![](screenshots/ash.png) | ![](screenshots/slate/showcase.png) | ![](screenshots/noir.png) |
 
 ---
 
